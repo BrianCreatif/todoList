@@ -7,7 +7,7 @@ body {
 /*    min-width: 250px;*/
     font-family: sans-serif;
     background-attachment: fixed;
-    background: #51847f;
+    background: white;
 }
 
 /* padding and margins */
@@ -38,7 +38,7 @@ ul li {
   background: #eee;
   font-size: 18px;
   transition: 0.2s;
-  
+
   /* unselectable items */
   -webkit-user-select: none;
   -moz-user-select: none;
